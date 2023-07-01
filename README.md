@@ -1,11 +1,11 @@
 # Hi there! I'm Jay Chin 👋
 
-## I'm a Designer, Developer and Performer!!
+## I'm a Developer, Designer and Performer!!
 
 - 🌱 I’m currently learning everything 🤣 (as a Software Engineering student)
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m like making friends and getting to know people with the same interests 
 - 🥅 2023 Goals: Learn more about web development
-- ⚡ Fun fact: I love to play the guitar and sing!
+- ⚡ Fun fact: I love to sing and play guitar!
 
 ### Connect with me:
 
