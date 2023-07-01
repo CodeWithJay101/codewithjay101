@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣 (as a Software Engineering student)
 - 👯 I like making friends and getting to know people with the same interests 
-- 🥅 2023 Goals: Learn more about software development
+- 🥅 2023 Goals: Learn more about the software industry
 - ⚡ Fun fact: I love to sing and play guitar!
 
 ### Connect with me:
