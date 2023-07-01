@@ -1,1 +1,3 @@
 Hi there!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&weight=500&duration=2500&pause=1000&color=8AEDF7&center=true&vCenter=true&repeat=false&width=435&lines=Web+designer+%26+developer)](https://git.io/typing-svg)
