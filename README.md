@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Jay Chin 👋</h1>
+# Hi there! I'm Jay Chin 👋
 
 ## I'm a Designer, Developer, and Student!!
 
