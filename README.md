@@ -1,3 +1,10 @@
 <h1>Hi there! I'm Jay Chin 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&weight=500&duration=2500&pause=1000&color=6076F7&vCenter=true&repeat=false&width=440&height=45&lines=I'm+a+web+designer+%2F+web+developer)](https://git.io/typing-svg)
+## I'm a Designer, Developer, and Student!!
+
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
