@@ -29,6 +29,7 @@
 <img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:5px;" />
 <img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:5px;" />
 <img align="left" alt="PHP" width="32px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" style="padding:5px;" />
+<img align="left" alt="Python" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" style="padding:5px;" />
 <img align="left" alt="GitHub" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" style="padding:5px;" />
 <img align="left" alt="Java" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="padding:5px;" />
 <img align="left" alt="C++" width="32px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding:5px;" /><br><br><br><br>
