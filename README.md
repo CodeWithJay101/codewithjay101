@@ -1,11 +1,18 @@
-# Hi there! I'm Jay Chin 👋 
-## I'm a Developer, Designer and Performer!!
+# Hi there! I'm Jay Chin 👋
+## Software Engineer • Multi-stack • Lifelong Learner
 
-- 🌱 I’m currently learning everything XD (as a Software Developer)
-- 👯 I enjoy making friends and getting to know people with the same interests 
-- 🥅 2023 Goals: Learn more about the software industry
-- ⚡ Fun fact: I love to sing and play guitar 🎸
-- 🌐 My personal portfolio is in the making... Do look forward to that hehe
+I specialize in designing, building, and maintaining production-grade software across multiple languages, frameworks, and architectures. I’ve contributed to complex systems, collaborated with large cross-functional engineering teams, and independently delivered end-to-end features with strong ownership and accountability.
+
+I have hands-on experience with:
+- Full-stack development (APIs, web apps, backend services)
+- Modern JavaScript/TypeScript frameworks
+- Cloud & DevOps fundamentals
+- System design, debugging, and performance optimization
+- Agile workflows, version control, CI/CD pipelines
+
+I’m committed to continuous improvement, writing clean and maintainable code, and staying updated with industry best practices. Always open to technical collaborations, open-source contributions, and new job opportunities where I can bring impact and grow alongside strong engineering teams.
+
+If you’re working on something meaningful or innovative, I’d love to connect.
 
 ### Connect with me:
 
