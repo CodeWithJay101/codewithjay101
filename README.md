@@ -1,5 +1,5 @@
 # Hi there! I'm Jay Chin 👋
-## Software Engineer • Multi-stack • Lifelong Learner
+### Software Engineer • Multi-stack • Lifelong Learner
 
 I specialize in designing, building, and maintaining production-grade software across multiple languages, frameworks, and architectures. I’ve contributed to complex systems, collaborated with large cross-functional engineering teams, and independently delivered end-to-end features with strong ownership and accountability.
 
